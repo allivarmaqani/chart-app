@@ -21,5 +21,7 @@ This React application loads chart data from `data.json` and renders single-seri
    ```bash
    git clone https://github.com/allivarmaqani/chart-app.git
 cd chart-app
+
 npm install
+
 npm run dev
